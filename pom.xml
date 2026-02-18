@@ -43,6 +43,7 @@
 	</dependencies>
 
 	<build>
+        <finalName>my-app-2244</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
